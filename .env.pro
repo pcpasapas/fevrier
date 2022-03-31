@@ -1,19 +1,19 @@
 APP_NAME=Laravel
-APP_ENV=local
-APP_KEY=
+APP_ENV=production
+APP_KEY=base64:XOBT93hcdWoWMKeJFr57g2NA5zs/GMylRL14/Pr+ZJs=
 APP_DEBUG=true
-APP_URL=http://localhost
+APP_URL=http://https://pcpasapas2.herokuapp.com/
 
 LOG_CHANNEL=stack
 LOG_DEPRECATIONS_CHANNEL=null
 LOG_LEVEL=debug
-
+ 
 DB_CONNECTION=mysql
-DB_HOST=127.0.0.1
+DB_HOST=en1ehf30yom7txe7.cbetxkdyhwsb.us-east-1.rds.amazonaws.com
 DB_PORT=3306
-DB_DATABASE=laravel
-DB_USERNAME=root
-DB_PASSWORD=
+DB_DATABASE=v61zvqq844r7o5ud
+DB_USERNAME=momi25jc6rsprfi9
+DB_PASSWORD=xeqavyksftrvov86
 
 BROADCAST_DRIVER=log
 CACHE_DRIVER=file
